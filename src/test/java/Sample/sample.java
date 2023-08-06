@@ -8,6 +8,7 @@ public class sample {
 	{
 		System.out.println("Hello this is my second commit");
 		System.out.println("Hi");
+		System.out.println("Hello");
 	}
 
 }
